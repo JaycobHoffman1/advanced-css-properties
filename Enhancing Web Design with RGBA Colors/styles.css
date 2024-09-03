@@ -1,0 +1,22 @@
+.background-fade {
+    width: 500px;
+    height: 500px;
+    background-color: rgba(255, 83, 112, 0.797);
+}
+
+main h1 {
+    text-shadow: 2px 2px 3px rgba(246, 78, 237, 0.507);
+}
+
+button {
+    padding: 10px 30px;
+    border: none;
+    border-radius: 7px;
+    background-color: rgba(83, 232, 133, 0.907);
+    color: rgb(255, 255, 255);
+}
+
+button:hover {
+    background-color: rgba(14, 96, 41, 0.785);
+    cursor: pointer;
+}
